@@ -60,7 +60,6 @@ if (editProfileLink && editProfileOverlay) {
 
 
 // --- Заглушки для поиска, избранного и корзины ---
-// Показываем короткое всплывающее уведомление вместо реального функционала
 
 function showStub(message) {
   var toast = document.getElementById("stubToast");
